@@ -15,5 +15,5 @@ In this lab we’ll be sending a quantum message from one person to another. The
 Iterative Phase Estimation (IPE) is a variant of the phase estimation algorithm which requires the use of only one auxiliary qubit. Because it requires mid-circuit measurements and classical feedforward operations, IPE could not be executed on IBM Quantum hardware before the introduction of dynamic circuits. In this lab, we will use the newly introduced dynamic circuits capabilities to implement IPE.
 
 ### Lab 4
-####Quantum Error Correction
+#### Quantum Error Correction
 In this lab we’ll dive into Error Correction, starting from how it’s used on classical data, and then demonstrating (some of) our approach for quantum computers. We’ll explore how to use a bit flip code, and conclude with a conversation about how to run error correction on a real device.
