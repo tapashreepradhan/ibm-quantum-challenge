@@ -66,3 +66,6 @@ In this lab, you'll implement a simple version of the iterative phase estimation
 ### Lab 5: Error Mitigation with Qiskit Runtime
 
 In this lab, we'll explore a few of the error mitigation options available through Qiskit Runtime. Specifically, we'll define a simple observable and initial state and use the Estimator primitive to measure the expectation value. Using noisy simulations, we'll explore the effect of different error mitigation strategies.
+
+![qgss23](https://github.com/tapashreepradhan/ibm-quantum-challenge/assets/50409780/f487968b-fe58-40b7-9c0c-8ec34ae19a2b)
+
