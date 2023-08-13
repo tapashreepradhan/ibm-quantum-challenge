@@ -25,7 +25,7 @@ Iterative Phase Estimation (IPE) is a variant of the phase estimation algorithm 
 
 In this lab we’ll dive into Error Correction, starting from how it’s used on classical data, and then demonstrating (some of) our approach for quantum computers. We’ll explore how to use a bit flip code, and conclude with a conversation about how to run error correction on a real device.
 
-## Quantum Global Summer School 2023: From Theory To Implmentation
+## Quantum Global Summer School 2023: From Theory To Implementation
 
 Folder `qgss23` contains two folders `labs` where the completed solutions to each lab have been added and `lectures` folder in which the pdfs of the taught materials has been added day wise. 
 
@@ -48,3 +48,5 @@ In this lab, you'll implement a simple version of the iterative phase estimation
 ### Lab 5: Error Mitigation with Qiskit Runtime
 
 In this lab, we'll explore a few of the error mitigation options available through Qiskit Runtime. Specifically, we'll define a simple observable and initial state and use the Estimator primitive to measure the expectation value. Using noisy simulations, we'll explore the effect of different error mitigation strategies.
+
+![QGSS23 Completion Screenshot](tapashreepradhan/ibm-quantum-challenge/imgs/qgss23.png)
